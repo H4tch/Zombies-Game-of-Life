@@ -1,0 +1,8 @@
+
+You need to get Lua and Love in order to play the game.
+  www.lua.org
+  www.love2d.org
+  
+To run the game execute "./launch.sh" or type:(in the project directory)
+  love .
+
